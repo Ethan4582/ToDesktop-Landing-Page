@@ -72,4 +72,4 @@ This project is open-source and available under the [MIT License](./LICENSE).
 ---
 
 Enjoy exploring and contributing to the ToDesktop Landing Page Clone! 🎉
-```
+
