@@ -1,6 +1,6 @@
-# Nike Landing Page Clone
+# ToDesktop Landing Page Clone
 
-This repository contains a **clone of the original ToDesktop Landing Page Clone* **, built using the latest **Tailwind CSS** framework. The project replicates the design of the Nike website and is fully responsive.
+This repository contains a **ToDesktop Landing Page Clone**, built using the latest **Tailwind CSS** framework. The project replicates the design of the Nike website and is fully responsive.
 
 ---
 
@@ -71,5 +71,5 @@ This project is open-source and available under the [MIT License](./LICENSE).
 
 ---
 
-Enjoy exploring and contributing to the ** ToDesktop Landing Page Clone**! 🎉
+Enjoy exploring and contributing to the ToDesktop Landing Page Clone! 🎉
 ```
